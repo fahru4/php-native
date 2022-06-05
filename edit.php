@@ -1,5 +1,7 @@
 <?php 
 include('koneksidb.php');
+include_once "welcome.php";
+
 if(isset($_GET['nip'])){
     $nip = ($_GET['nip']);
 

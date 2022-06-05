@@ -1,5 +1,8 @@
 <?php 
 include('koneksidb.php');
+// <?php include "atas.php";
+include_once "welcome.php";
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
